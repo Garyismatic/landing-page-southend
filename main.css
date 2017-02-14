@@ -1,0 +1,36 @@
+body {
+	background: url('img/southend.jpg') no-repeat top center;
+	background-size: cover;
+	text-align: center;
+}
+
+header {
+	color: orange;
+	font-size: 60px;
+}
+
+main p {
+	color: grey;
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.btn {
+	margin-top: 80px;
+}
+
+.btn a {
+	padding: 20px;
+	background-color: white;
+	color: steelblue;
+	font-size: 30px;
+	border-radius: 10%;
+}
+
+.btn a:hover{
+	background-color: grey;
+	color: orange;
+}
